@@ -10,4 +10,5 @@
                  [org.clojure/java.jdbc "0.7.11"]
                  [mysql/mysql-connector-java "8.0.20"]
                  ]
-  :repl-options {:init-ns herbarium.core})
+  :repl-options {:init-ns herbarium.core}
+)
