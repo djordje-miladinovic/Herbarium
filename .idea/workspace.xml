@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93fc4bef-90ab-4208-8e92-3c30178eb048" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__mysql_mysql_connector_java_8_0_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_java_jdbc_0_7_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/herbarium/database.clj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/herbarium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/herbarium.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.clj" beforeDir="false" afterPath="$PROJECT_DIR$/project.clj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/herbarium/core.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/herbarium/core.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/herbarium/database.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/herbarium/database.clj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,22 +95,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="156" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589021470196" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1589021755417">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1589023823055">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589021755417" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1589021755417">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589023823055" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1589023823054">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589021755417" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1589021755416">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589023823054" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1589023823054">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589021755416" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1589021755417">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589023823054" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1589023823055">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589021755417" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589023823055" />
     <state x="319" y="40" key="SettingsEditor" timestamp="1588700684775">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
