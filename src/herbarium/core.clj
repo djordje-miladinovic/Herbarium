@@ -1,6 +1,5 @@
-(ns herbarium.core)
+(ns herbarium.core
+  (:require [herbarium.database :as db ])
+)
 
-(defn foo
-  "I don't do a whole lot."
-  [x]
-  (println x "Hello, Djordje!"))
+(println (db/get-herbs))

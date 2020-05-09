@@ -6,5 +6,8 @@
   :dependencies [[org.clojure/clojure "1.10.0"]
                  [ring "1.8.1"]
                  [compojure "1.6.1"]
-                 [hiccup "1.0.5"]]
+                 [hiccup "1.0.5"]
+                 [org.clojure/java.jdbc "0.7.11"]
+                 [mysql/mysql-connector-java "8.0.20"]
+                 ]
   :repl-options {:init-ns herbarium.core})
